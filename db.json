@@ -1,14 +1,42 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+data:[ {
+    id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba',
+    title: 'League Fees iowjefwe weijwew 23 jjj',
+    cost: '$800',
+    due: '10/31/2019',
+    status: 'Paid'
+  },
+  {
+    id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f63',
+    title: 'Workout Fees',
+    cost: '$20/month',
+    due: '10/31/2019',
+    status: 'Unpaid'
+  },
+  {
+    id: '58694a0f-3da1-471f-bd96-1645571e29d72',
+    title: 'Practice Uniform Jersey',
+    cost: '$50/player',
+    due: '20/5/29',
+    status: 'Unpaid'
+  },
+  {
+    id: '58694a0f-3da1-471f-bd96-1455571e29d72',
+    title: 'Uniform',
+    cost: '$20/player',
+    due: '20/5/17',
+    status: 'Paid'
+  },
+  {
+    id: '58694a0f-3da1-471f-bd96-1454571e29d72',
+    title: 'Cap',
+    cost: '$75/player',
+    due: '1/4/20',
+    status: 'Unpaid'
+  },
+  {
+    id: '58694a0f-3da1-4741f-bd96-1455721e29d72',
+    title: 'Practice Uniform ',
+    cost: '$80/player',
+    due: '20/9/22',
+    status: 'Paid'
+  }]
